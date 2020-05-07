@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Good_Bullet
+  - Enemy
+  - Bad_Bullet
+  - Ally
+  - mainCharacter
+  - mainCharacterCenter
+  - Breakable_Bad_Bullet
+  - Bad_Bullet_Laser
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Enemy
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2737299037
+    locked: 0
+  - name: Props
+    uniqueID: 1423019779
+    locked: 0
+  - name: Characters
+    uniqueID: 1632745627
+    locked: 0
+  - name: Buttons
+    uniqueID: 282662639
+    locked: 0
+  - name: Texts
+    uniqueID: 2388250269
+    locked: 0
